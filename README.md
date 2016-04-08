@@ -1,6 +1,6 @@
 # clean_arch_ruby
 
-example of use-case architecture with Ruby and Sinatra
+example of use-case architecture with Ruby and Sinatra. It doesn't go all the way to defining entities and repositories, but it demonstrates the basic idea of encapsulating application logic and making sure all the dependencies point in the same direction.
 
 ## UseCase, Request, Response
 
